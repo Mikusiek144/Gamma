@@ -1,1 +1,1 @@
-# GammaPlugin
+# Gamma
