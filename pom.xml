@@ -1,0 +1,10 @@
+GammaPlugin
+        ├── src
+        │   └── main
+        │       ├── java
+        │       │   └── pl
+        │       │       └── gamma
+        │       │           └── GammaPlugin.java
+        │       └── resources
+        │           └── plugin.yml
+        └── pom.xml
