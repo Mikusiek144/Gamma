@@ -1,0 +1,8 @@
+name: GammaPlugin
+version: 1.0
+main: pl.gamma.GammaPlugin
+author: Mikusiek
+commands:
+  gamma:
+    description: Włącza lub wyłącza efekt Widzenia w ciemności.
+    usage: /gamma
